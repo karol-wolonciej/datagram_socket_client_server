@@ -1,1 +1,3 @@
-# socket_client_server_c-
+# sicktacka game 
+
+> in c++ with many players using linux sockets with datagram protocol
